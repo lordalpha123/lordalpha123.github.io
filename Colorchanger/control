@@ -1,9 +1,0 @@
-Package: com.lordalpha123.colorchanger
-Name: Color Changer
-Depends: mobilesubstrate
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: Lord Alpha
-Author: Lord Alpha
-Section: Tweaks
