@@ -1,0 +1,9 @@
+Package: com.lordalpha123.test
+Name: WiFi Top Toggle
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Put the WiFi setting toggle in the navigation bar
+Maintainer: LordAlpha
+Author: LordAlpha
+Section: Tweaks
